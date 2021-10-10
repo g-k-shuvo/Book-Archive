@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin-bottom: 6px;
+}
+
+.section-padding {
+  padding: 60px 0;
+}
+
+.search-container {
+  display: flex;
+}
+
+.search-container button {
+  margin-left: 10px;
+}
+
+.card-img {
+  height: 400px;
+}
+
+.card-img img {
+  height: 100%;
+}
+
+#spinner {
+  display: none;
+}
